@@ -1,0 +1,273 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mboivin - Author - ✨ mboivin&#39;s blog</title>
+        <link>https://matboivin.github.io/authors/mboivin/</link>
+        <description>Mboivin - Author - ✨ mboivin&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2026 21:12:52 &#43;0100</lastBuildDate><atom:link href="https://matboivin.github.io/authors/mboivin/" rel="self" type="application/rss+xml" /><item>
+    <title>🌱 CTF History</title>
+    <link>https://matboivin.github.io/ctf/</link>
+    <pubDate>Wed, 18 Mar 2026 21:12:52 &#43;0100</pubDate><author>
+                        <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/ctf/</guid>
+    <description><![CDATA[<p>Some CTFs are missing. Team names and ranks too. I forgot to take screenshots or notes. 🥲</p>
+<p>From now, I will try to post <strong>writeups</strong> a summary of what I learnt and enjoyed!</p>
+<h2 id="2026" class="headerLink">
+    <a href="#2026" class="header-mark"></a>2026</h2><table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Name - Organizer</th>
+          <th>Type</th>
+          <th>Team (if not solo)</th>
+          <th>Rank</th>
+          <th>Writeup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>03/07</td>
+          <td>HackHer - Oteria</td>
+          <td>Jeopardy, on-site</td>
+          <td>CEFCYSisters</td>
+          <td>4/14</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="2025" class="headerLink">
+    <a href="#2025" class="header-mark"></a>2025</h2><table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Name - Organizer</th>
+          <th>Type</th>
+          <th>Team (if not solo)</th>
+          <th>Rank</th>
+          <th>Writeup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>11/28</td>
+          <td>HeroCTF</td>
+          <td>Jeopardy, remote</td>
+          <td>Rising Stars</td>
+          <td>91/1052</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>07/11</td>
+          <td>L3akCTF</td>
+          <td>Jeopardy, remote</td>
+          <td>42 Paris</td>
+          <td>141/1587</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="2024" class="headerLink">
+    <a href="#2024" class="header-mark"></a>2024</h2><table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Name - Organizer</th>
+          <th>Type</th>
+          <th>Team (if not solo)</th>
+          <th>Rank</th>
+          <th>Writeup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>11/14</td>
+          <td>Objectif Eagle</td>
+          <td>OSINT-only, remote</td>
+          <td>Br Hackeuses</td>
+          <td>8/?</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>10/25</td>
+          <td>HeroCTF v6</td>
+          <td>Jeopardy, remote</td>
+          <td>?</td>
+          <td>?</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>10/19</td>
+          <td>HackHer - Oteria</td>
+          <td>Jeopardy, on-site</td>
+          <td>Hexausted</td>
+          <td>2/?</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>05/17</td>
+          <td>Breizh CTF</td>
+          <td>Jeopardy, on-site</td>
+          <td>nicole</td>
+          <td>?</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>04/20</td>
+          <td>404 CTF</td>
+          <td>Jeopardy, remote</td>
+          <td></td>
+          <td>?</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>03/26</td>
+          <td>picoCTF</td>
+          <td>Jeopardy, remote</td>
+          <td></td>
+          <td>?</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>01/06</td>
+          <td>IrisCTF</td>
+          <td>Jeopardy, remote</td>
+          <td>?</td>
+          <td>?</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="2023" class="headerLink">
+    <a href="#2023" class="header-mark"></a>2023</h2><table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Name - Organizer</th>
+          <th>Type</th>
+          <th>Team (if not solo)</th>
+          <th>Rank</th>
+          <th>Writeup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>05/05</td>
+          <td>PwnMe CTF</td>
+          <td>Jeopardy, remote</td>
+          <td>APT42</td>
+          <td>28/501</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>03/17</td>
+          <td>Breizh CTF</td>
+          <td>Jeopardy, on-site</td>
+          <td>nicole</td>
+          <td>54/117</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>01/27</td>
+          <td>Hexa OSINT CTF</td>
+          <td>Jeopardy, remote</td>
+          <td>Holy fun king bingle :3</td>
+          <td>14/117</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="2022" class="headerLink">
+    <a href="#2022" class="header-mark"></a>2022</h2><table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Name - Organizer</th>
+          <th>Type</th>
+          <th>Team (if not solo)</th>
+          <th>Rank</th>
+          <th>Writeup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>10/22</td>
+          <td>Phoenix CTF - Trans Tech Tent</td>
+          <td>Jeopardy, remote</td>
+          <td>APTduoquadra</td>
+          <td>3/14</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>05/06</td>
+          <td>Hunt EGE - AEGE</td>
+          <td>OSINT-only, on-site</td>
+          <td>APT42</td>
+          <td>4/13</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>05/06</td>
+          <td>Bleuet</td>
+          <td>OSINT-only, remote</td>
+          <td></td>
+          <td>9/?</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="2020" class="headerLink">
+    <a href="#2020" class="header-mark"></a>2020</h2><table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Name - Organizer</th>
+          <th>Type</th>
+          <th>Team (if not solo)</th>
+          <th>Rank</th>
+          <th>Writeup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>06/06</td>
+          <td>CYBAR OSINT CTF</td>
+          <td>OSINT-only, remote</td>
+          <td>internettles</td>
+          <td>37/161</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="2019" class="headerLink">
+    <a href="#2019" class="header-mark"></a>2019</h2><table>
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Name - Organizer</th>
+          <th>Type</th>
+          <th>Team (if not solo)</th>
+          <th>Rank</th>
+          <th>Writeup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>12/14</td>
+          <td>TRACS - ViaRézo</td>
+          <td>Jeopardy, on-site</td>
+          <td>Marvin&rsquo;s team</td>
+          <td>34/89</td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>]]></description>
+</item><item>
+    <title>🪩 About</title>
+    <link>https://matboivin.github.io/about/</link>
+    <pubDate>Wed, 18 Mar 2026 21:12:52 &#43;0100</pubDate><author>
+                        <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/about/</guid>
+    <description><![CDATA[<h1 id="whoami" class="headerLink">
+    <a href="#whoami" class="header-mark"></a>whoami</h1><p>My name is Mathilde and I&rsquo;m a former <strong>illustrator</strong> 🎨 now working in <strong>information security</strong>.</p>
+<p>Computers always attracted me (I discovered and used Ubuntu for the first time at age 12 🤓). Thanks to <a href="https://www.42network.org/" target="_blank" rel="noopener noreferrer">School 42</a>, a free-tuition computer programming school in Paris, I could make a bold career change and become an OSINT tools developer! Strange but true: I enjoy writing <a href="https://blog.lexfo.fr/infostealer-parser.html" target="_blank" rel="noopener noreferrer">parsers</a>.</p>
+<blockquote>
+  <p>💙 I love CTI, OSINT/investigative journalism, recreational pentesting (Portswigger Web Academy, <a href="https://www.root-me.org/maty4" target="_blank" rel="noopener noreferrer">Root Me</a>) <a href="/ctf/" rel="">CTFs</a>, and especially learning new things (currently focusing on <strong>reverse engineering</strong>).</p>]]></description>
+</item></channel>
+</rss>
