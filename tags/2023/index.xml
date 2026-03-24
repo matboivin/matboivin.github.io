@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>OSINT - Tag - ✨ mboivin&#39;s blog</title>
-        <link>https://matboivin.github.io/tags/osint/</link>
-        <description>OSINT - Tag - ✨ mboivin&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 17:14:18 &#43;0100</lastBuildDate><atom:link href="https://matboivin.github.io/tags/osint/" rel="self" type="application/rss+xml" /><item>
+        <title>2023 - Tag - ✨ mboivin&#39;s blog</title>
+        <link>https://matboivin.github.io/tags/2023/</link>
+        <description>2023 - Tag - ✨ mboivin&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 17:14:18 &#43;0100</lastBuildDate><atom:link href="https://matboivin.github.io/tags/2023/" rel="self" type="application/rss+xml" /><item>
     <title>HEXA OSINT CTF V2</title>
     <link>https://matboivin.github.io/posts/2026/03/hexa-osint-ctf-v2/</link>
     <pubDate>Mon, 23 Mar 2026 17:14:18 &#43;0100</pubDate><author>

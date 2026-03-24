@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>CTF - Tag - ✨ mboivin&#39;s blog</title>
-        <link>https://matboivin.github.io/tags/ctf/</link>
-        <description>CTF - Tag - ✨ mboivin&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2026 14:11:31 &#43;0100</lastBuildDate><atom:link href="https://matboivin.github.io/tags/ctf/" rel="self" type="application/rss+xml" /><item>
+        <title>2024 - Tag - ✨ mboivin&#39;s blog</title>
+        <link>https://matboivin.github.io/tags/2024/</link>
+        <description>2024 - Tag - ✨ mboivin&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2026 14:11:31 &#43;0100</lastBuildDate><atom:link href="https://matboivin.github.io/tags/2024/" rel="self" type="application/rss+xml" /><item>
     <title>HeroCTF V6</title>
     <link>https://matboivin.github.io/posts/2026/03/heroctf-v6/</link>
     <pubDate>Tue, 24 Mar 2026 14:11:31 &#43;0100</pubDate><author>
@@ -15,11 +15,5 @@
     <pubDate>Tue, 24 Mar 2026 12:59:12 &#43;0100</pubDate><author>
                         <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/posts/2026/03/metactf-flash-dec-2024/</guid>
     <description><![CDATA[Write-up of the MetaCTF December 2024 Flash CTF experience: a 4-hours individual competition featuring a Christmas theme.]]></description>
-</item><item>
-    <title>HEXA OSINT CTF V2</title>
-    <link>https://matboivin.github.io/posts/2026/03/hexa-osint-ctf-v2/</link>
-    <pubDate>Mon, 23 Mar 2026 17:14:18 &#43;0100</pubDate><author>
-                        <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/posts/2026/03/hexa-osint-ctf-v2/</guid>
-    <description><![CDATA[Detailed write-up of the HEXA OSINT CTF V2 which occurred in January 2023.]]></description>
 </item></channel>
 </rss>
