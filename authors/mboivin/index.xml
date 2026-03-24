@@ -3,33 +3,39 @@
         <title>Mboivin - Author - ✨ mboivin&#39;s blog</title>
         <link>https://matboivin.github.io/authors/mboivin/</link>
         <description>Mboivin - Author - ✨ mboivin&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2026 21:12:52 &#43;0100</lastBuildDate><atom:link href="https://matboivin.github.io/authors/mboivin/" rel="self" type="application/rss+xml" /><item>
-    <title>🌱 CTF History</title>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 17:14:18 &#43;0100</lastBuildDate><atom:link href="https://matboivin.github.io/authors/mboivin/" rel="self" type="application/rss+xml" /><item>
+    <title>HEXA OSINT CTF V2</title>
+    <link>https://matboivin.github.io/posts/2026/03/hexa-osint-ctf-v2/</link>
+    <pubDate>Mon, 23 Mar 2026 17:14:18 &#43;0100</pubDate><author>
+                        <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/posts/2026/03/hexa-osint-ctf-v2/</guid>
+    <description><![CDATA[Detailed write-up of the HEXA OSINT CTF V2 which took place online in January 2023.]]></description>
+</item><item>
+    <title>🎀 CTF History</title>
     <link>https://matboivin.github.io/ctf/</link>
     <pubDate>Wed, 18 Mar 2026 21:12:52 &#43;0100</pubDate><author>
                         <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/ctf/</guid>
     <description><![CDATA[<p>Some CTFs are missing. Team names and ranks too. I forgot to take screenshots or notes. 🥲</p>
-<p>From now, I will try to post <strong>writeups</strong> a summary of what I learnt and enjoyed!</p>
+<p>From now, I will try to post <strong>write-ups</strong> a summary of what I learnt and enjoyed!</p>
 <h2 id="2026" class="headerLink">
     <a href="#2026" class="header-mark"></a>2026</h2><table>
   <thead>
       <tr>
-          <th>Date</th>
-          <th>Name - Organizer</th>
-          <th>Type</th>
-          <th>Team (if not solo)</th>
-          <th>Rank</th>
-          <th>Writeup</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Name - Organizer</th>
+          <th style="text-align: left">Type</th>
+          <th style="text-align: center">Team (if not solo)</th>
+          <th style="text-align: center">Rank</th>
+          <th style="text-align: center">Write-up</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>03/07</td>
-          <td>HackHer - Oteria</td>
-          <td>Jeopardy, on-site</td>
-          <td>CEFCYSisters</td>
-          <td>4/14</td>
-          <td></td>
+          <td style="text-align: left">03/07</td>
+          <td style="text-align: left">HackHer - Oteria</td>
+          <td style="text-align: left">Jeopardy, on-site</td>
+          <td style="text-align: center">CEFCYSisters</td>
+          <td style="text-align: center">4/14</td>
+          <td style="text-align: center"></td>
       </tr>
   </tbody>
 </table>
@@ -37,30 +43,30 @@
     <a href="#2025" class="header-mark"></a>2025</h2><table>
   <thead>
       <tr>
-          <th>Date</th>
-          <th>Name - Organizer</th>
-          <th>Type</th>
-          <th>Team (if not solo)</th>
-          <th>Rank</th>
-          <th>Writeup</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Name - Organizer</th>
+          <th style="text-align: left">Type</th>
+          <th style="text-align: center">Team (if not solo)</th>
+          <th style="text-align: center">Rank</th>
+          <th style="text-align: center">Write-up</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>11/28</td>
-          <td>HeroCTF</td>
-          <td>Jeopardy, remote</td>
-          <td>Rising Stars</td>
-          <td>91/1052</td>
-          <td></td>
+          <td style="text-align: left">11/28</td>
+          <td style="text-align: left">HeroCTF</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">Rising Stars</td>
+          <td style="text-align: center">91/1052</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>07/11</td>
-          <td>L3akCTF</td>
-          <td>Jeopardy, remote</td>
-          <td>42 Paris</td>
-          <td>141/1587</td>
-          <td></td>
+          <td style="text-align: left">07/11</td>
+          <td style="text-align: left">L3akCTF</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">42 Paris</td>
+          <td style="text-align: center">141/1587</td>
+          <td style="text-align: center"></td>
       </tr>
   </tbody>
 </table>
@@ -68,70 +74,70 @@
     <a href="#2024" class="header-mark"></a>2024</h2><table>
   <thead>
       <tr>
-          <th>Date</th>
-          <th>Name - Organizer</th>
-          <th>Type</th>
-          <th>Team (if not solo)</th>
-          <th>Rank</th>
-          <th>Writeup</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Name - Organizer</th>
+          <th style="text-align: left">Type</th>
+          <th style="text-align: center">Team (if not solo)</th>
+          <th style="text-align: center">Rank</th>
+          <th style="text-align: center">Write-up</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>11/14</td>
-          <td>Objectif Eagle</td>
-          <td>OSINT-only, remote</td>
-          <td>Br Hackeuses</td>
-          <td>8/?</td>
-          <td></td>
+          <td style="text-align: left">11/14</td>
+          <td style="text-align: left">Objectif Eagle</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">Br Hackeuses</td>
+          <td style="text-align: center">8/229</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>10/25</td>
-          <td>HeroCTF v6</td>
-          <td>Jeopardy, remote</td>
-          <td>?</td>
-          <td>?</td>
-          <td></td>
+          <td style="text-align: left">10/25</td>
+          <td style="text-align: left">HeroCTF v6</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">?</td>
+          <td style="text-align: center">?</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>10/19</td>
-          <td>HackHer - Oteria</td>
-          <td>Jeopardy, on-site</td>
-          <td>Hexausted</td>
-          <td>2/?</td>
-          <td></td>
+          <td style="text-align: left">10/19</td>
+          <td style="text-align: left">HackHer - Oteria</td>
+          <td style="text-align: left">Jeopardy, on-site</td>
+          <td style="text-align: center">Hexausted</td>
+          <td style="text-align: center">2/15</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>05/17</td>
-          <td>Breizh CTF</td>
-          <td>Jeopardy, on-site</td>
-          <td>nicole</td>
-          <td>?</td>
-          <td></td>
+          <td style="text-align: left">05/17</td>
+          <td style="text-align: left">Breizh CTF</td>
+          <td style="text-align: left">Jeopardy, on-site</td>
+          <td style="text-align: center">nicole</td>
+          <td style="text-align: center">?</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>04/20</td>
-          <td>404 CTF</td>
-          <td>Jeopardy, remote</td>
-          <td></td>
-          <td>?</td>
-          <td></td>
+          <td style="text-align: left">04/20</td>
+          <td style="text-align: left">404 CTF</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center"></td>
+          <td style="text-align: center">?</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>03/26</td>
-          <td>picoCTF</td>
-          <td>Jeopardy, remote</td>
-          <td></td>
-          <td>?</td>
-          <td></td>
+          <td style="text-align: left">03/26</td>
+          <td style="text-align: left">picoCTF</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center"></td>
+          <td style="text-align: center">?</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>01/06</td>
-          <td>IrisCTF</td>
-          <td>Jeopardy, remote</td>
-          <td>?</td>
-          <td>?</td>
-          <td></td>
+          <td style="text-align: left">01/06</td>
+          <td style="text-align: left">IrisCTF</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">?</td>
+          <td style="text-align: center">?</td>
+          <td style="text-align: center"></td>
       </tr>
   </tbody>
 </table>
@@ -139,38 +145,38 @@
     <a href="#2023" class="header-mark"></a>2023</h2><table>
   <thead>
       <tr>
-          <th>Date</th>
-          <th>Name - Organizer</th>
-          <th>Type</th>
-          <th>Team (if not solo)</th>
-          <th>Rank</th>
-          <th>Writeup</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Name - Organizer</th>
+          <th style="text-align: left">Type</th>
+          <th style="text-align: center">Team (if not solo)</th>
+          <th style="text-align: center">Rank</th>
+          <th style="text-align: center">Write-up</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>05/05</td>
-          <td>PwnMe CTF</td>
-          <td>Jeopardy, remote</td>
-          <td>APT42</td>
-          <td>28/501</td>
-          <td></td>
+          <td style="text-align: left">05/05</td>
+          <td style="text-align: left">PwnMe CTF</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">APT42</td>
+          <td style="text-align: center">28/501</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>03/17</td>
-          <td>Breizh CTF</td>
-          <td>Jeopardy, on-site</td>
-          <td>nicole</td>
-          <td>54/117</td>
-          <td></td>
+          <td style="text-align: left">03/17</td>
+          <td style="text-align: left">Breizh CTF</td>
+          <td style="text-align: left">Jeopardy, on-site</td>
+          <td style="text-align: center">nicole</td>
+          <td style="text-align: center">54/117</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>01/27</td>
-          <td>Hexa OSINT CTF</td>
-          <td>Jeopardy, remote</td>
-          <td>Holy fun king bingle :3</td>
-          <td>14/117</td>
-          <td></td>
+          <td style="text-align: left">01/27</td>
+          <td style="text-align: left">Hexa OSINT CTF v2</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">Holy fun king bingle :3</td>
+          <td style="text-align: center">14/117</td>
+          <td style="text-align: center"><a href="/posts/2026/03/hexa-osint-ctf-v2/" rel="">🔗</a></td>
       </tr>
   </tbody>
 </table>
@@ -178,38 +184,38 @@
     <a href="#2022" class="header-mark"></a>2022</h2><table>
   <thead>
       <tr>
-          <th>Date</th>
-          <th>Name - Organizer</th>
-          <th>Type</th>
-          <th>Team (if not solo)</th>
-          <th>Rank</th>
-          <th>Writeup</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Name - Organizer</th>
+          <th style="text-align: left">Type</th>
+          <th style="text-align: center">Team (if not solo)</th>
+          <th style="text-align: center">Rank</th>
+          <th style="text-align: center">Write-up</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>10/22</td>
-          <td>Phoenix CTF - Trans Tech Tent</td>
-          <td>Jeopardy, remote</td>
-          <td>APTduoquadra</td>
-          <td>3/14</td>
-          <td></td>
+          <td style="text-align: left">10/22</td>
+          <td style="text-align: left">Phoenix CTF - Trans Tech Tent</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">APTduoquadra</td>
+          <td style="text-align: center">3/14</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>05/06</td>
-          <td>Hunt EGE - AEGE</td>
-          <td>OSINT-only, on-site</td>
-          <td>APT42</td>
-          <td>4/13</td>
-          <td></td>
+          <td style="text-align: left">05/06</td>
+          <td style="text-align: left">Hunt EGE - AEGE</td>
+          <td style="text-align: left">Jeopardy, on-site</td>
+          <td style="text-align: center">APT42</td>
+          <td style="text-align: center">4/13</td>
+          <td style="text-align: center"></td>
       </tr>
       <tr>
-          <td>05/06</td>
-          <td>Bleuet</td>
-          <td>OSINT-only, remote</td>
-          <td></td>
-          <td>9/?</td>
-          <td></td>
+          <td style="text-align: left">05/06</td>
+          <td style="text-align: left">CTF Bleuet de France</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center"></td>
+          <td style="text-align: center">9/287</td>
+          <td style="text-align: center"></td>
       </tr>
   </tbody>
 </table>
@@ -217,22 +223,22 @@
     <a href="#2020" class="header-mark"></a>2020</h2><table>
   <thead>
       <tr>
-          <th>Date</th>
-          <th>Name - Organizer</th>
-          <th>Type</th>
-          <th>Team (if not solo)</th>
-          <th>Rank</th>
-          <th>Writeup</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Name - Organizer</th>
+          <th style="text-align: left">Type</th>
+          <th style="text-align: center">Team (if not solo)</th>
+          <th style="text-align: left">Rank</th>
+          <th style="text-align: left">Write-up</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>06/06</td>
-          <td>CYBAR OSINT CTF</td>
-          <td>OSINT-only, remote</td>
-          <td>internettles</td>
-          <td>37/161</td>
-          <td></td>
+          <td style="text-align: left">06/06</td>
+          <td style="text-align: left">CYBAR OSINT CTF</td>
+          <td style="text-align: left">Jeopardy, remote</td>
+          <td style="text-align: center">internettles</td>
+          <td style="text-align: left">37/161</td>
+          <td style="text-align: left"></td>
       </tr>
   </tbody>
 </table>
@@ -240,22 +246,22 @@
     <a href="#2019" class="header-mark"></a>2019</h2><table>
   <thead>
       <tr>
-          <th>Date</th>
-          <th>Name - Organizer</th>
-          <th>Type</th>
-          <th>Team (if not solo)</th>
-          <th>Rank</th>
-          <th>Writeup</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Name - Organizer</th>
+          <th style="text-align: left">Type</th>
+          <th style="text-align: center">Team (if not solo)</th>
+          <th style="text-align: left">Rank</th>
+          <th style="text-align: center">Write-up</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td>12/14</td>
-          <td>TRACS - ViaRézo</td>
-          <td>Jeopardy, on-site</td>
-          <td>Marvin&rsquo;s team</td>
-          <td>34/89</td>
-          <td></td>
+          <td style="text-align: left">12/14</td>
+          <td style="text-align: left">TRACS - ViaRézo x DGSE</td>
+          <td style="text-align: left">Jeopardy, on-site</td>
+          <td style="text-align: center">Marvin&rsquo;s team</td>
+          <td style="text-align: left">34/89</td>
+          <td style="text-align: center"></td>
       </tr>
   </tbody>
 </table>]]></description>
