@@ -61,7 +61,7 @@
 </ul>
 <h1 id="news" class="headerLink">
     <a href="#news" class="header-mark"></a>News</h1><ul>
-<li>Will give a workshop at Devoxx with a friend. 🩷</li>
+<li>Will give a <a href="https://m.devoxx.com/events/devoxxfr2026/talks/91531/dcouvrir-linux-au-travers-de-lanalyse-forensique-de-ram" target="_blank" rel="noopener noreferrer">workshop</a> at Devoxx with a friend. 🩷</li>
 </ul>]]></description>
 </item><item>
     <title>🎀 CTF History</title>
@@ -69,7 +69,7 @@
     <pubDate>Wed, 18 Mar 2026 21:12:52 &#43;0100</pubDate><author>
                         <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/ctf/</guid>
     <description><![CDATA[<p>Some CTFs are missing. Team names and ranks too. I forgot to take screenshots or notes. 🥲</p>
-<p>From now, I will try to post <strong>write-ups</strong> a summary of what I learnt and enjoyed!</p>
+<p>From now, I will try to post <strong>write-ups</strong> with a summary of what I learnt and enjoyed!</p>
 <h2 id="2026" class="headerLink">
     <a href="#2026" class="header-mark"></a>2026</h2><table>
   <thead>
