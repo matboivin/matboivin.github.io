@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WIP - Tag - ✨ mboivin&#39;s blog</title>
+        <link>https://matboivin.github.io/tags/wip/</link>
+        <description>WIP - Tag - ✨ mboivin&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2026 22:29:18 &#43;0200</lastBuildDate><atom:link href="https://matboivin.github.io/tags/wip/" rel="self" type="application/rss+xml" /><item>
+    <title>[WIP #1] May 2026</title>
+    <link>https://matboivin.github.io/posts/2026/05/wip-may-2026/</link>
+    <pubDate>Thu, 21 May 2026 22:29:18 &#43;0200</pubDate><author>
+                        <name>mboivin</name><uri>https://matboivin.github.io/</uri><email>mboivin@student.42.fr</email></author><guid>https://matboivin.github.io/posts/2026/05/wip-may-2026/</guid>
+    <description><![CDATA[Regular update on my learnings. Articles read, tools discovered, and more.]]></description>
+</item></channel>
+</rss>
